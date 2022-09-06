@@ -129,6 +129,93 @@ const ProgramsPage = () => {
                 </button>
               </div>
             </div>
+            <div className="columns pb-6">
+              <div className="column">
+                <p className="pb-6">
+                  <span className="is-size-5 has-text-weight-semibold">
+                  EduTalkAfric Radio <br />
+                    <br />
+                  </span>
+                  The execution partners of our initiatives grow in the long
+                  term through partnerships with local initiators. Lorem ipsum
+                  dolor sit, amet consectetur adipisicing elit. Eveniet quas
+                  eaque, vero maxime id adipisci nostrum nesciunt neque
+                  accusantium? Nam amet rerum voluptatum ab. Laudantium
+                  reprehenderit vel dicta sequi id suscipit eum quidem magnam
+                  soluta nihil voluptates cumque, facere architecto aliquam quia
+                  quasi recusandae harum et consequuntur eligendi similique
+                  mollitia?
+                </p>
+                <button className="button is-rounded is-contained is-primary">
+                  Continue Reading
+                </button>
+              </div>
+              <div className="column is-one-third">
+                <img
+                  className="image is-256x256"
+                  src={ngos}
+                  alt="for initiators"
+                />
+              </div>
+            </div>
+            <div className="columns pb-6">
+              <div className="column is-one-third">
+                <img
+                  className="image is-256x256"
+                  src={Consumers}
+                  alt="for citizens"
+                />
+              </div>
+              <div className="column">
+                <p className="pb-6">
+                  <span className="is-size-5 has-text-weight-semibold">
+                  Postgraduate Exchange Program
+                    <br />
+                    <br />
+                  </span>
+                  We offer local initiators a digital toolbox to successfully
+                  realise initiatives with residents. Lorem ipsum dolor, sit
+                  amet consectetur adipisicing elit. Dolorum eos distinctio
+                  vitae labore animi, cumque tenetur. Inventore, ab? Sequi minus
+                  odit libero id veniam, quia quibusdam est dicta maxime sunt
+                  aliquam inventore repellat! Atque tempore dolorem quisquam
+                  cumque officia perferendis qui quas mollitia, dignissimos,
+                  eligendi eveniet quia voluptas, iste fugit.
+                </p>
+                <button className="button is-rounded is-contained is-warning has-text-white">
+                Continue Reading
+                </button>
+              </div>
+            </div>
+            <div className="columns pb-6">
+              <div className="column">
+                <p className="pb-6">
+                  <span className="is-size-5 has-text-weight-semibold">
+                  Organizational Incubation
+                    <br />
+                    <br />
+                  </span>
+                  We offer local initiators a digital toolbox to successfully
+                  realise initiatives with residents. Lorem ipsum dolor, sit
+                  amet consectetur adipisicing elit. Dolorum eos distinctio
+                  vitae labore animi, cumque tenetur. Inventore, ab? Sequi minus
+                  odit libero id veniam, quia quibusdam est dicta maxime sunt
+                  aliquam inventore repellat! Atque tempore dolorem quisquam
+                  cumque officia perferendis qui quas mollitia, dignissimos,
+                  eligendi eveniet quia voluptas, iste fugit.
+                </p>
+                <button className="button is-rounded is-contained is-warning has-text-white">
+                Continue Reading
+                </button>
+              </div>
+              <div className="column is-one-third">
+                <img
+                  className="image is-256x256"
+                  src={Consumers}
+                  alt="for citizens"
+                />
+              </div>
+            </div>
           </div>
         </div>
       </section>
