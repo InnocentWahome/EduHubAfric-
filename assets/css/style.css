@@ -117,7 +117,7 @@ h6 {
 # Navigation Menu
 --------------------------------------------------------------*/
 /**
-* Desktop Navigation 
+* Desktop Navigation
 */
 .navbar {
   padding: 0;
@@ -246,7 +246,7 @@ h6 {
 }
 
 /**
-* Mobile Navigation 
+* Mobile Navigation
 */
 .mobile-nav-toggle {
   color: #47536e;
@@ -592,6 +592,12 @@ section {
 }
 
 .details .content h3 {
+  font-weight: 700;
+  font-size: 32px;
+  color: #47536e;
+}
+
+.custom-h3 {
   font-weight: 700;
   font-size: 32px;
   color: #47536e;
