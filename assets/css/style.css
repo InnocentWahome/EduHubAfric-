@@ -655,6 +655,15 @@ section {
   text-align: center;
 }
 
+.img_1 {
+  border-radius: 20px;
+}
+
+.img_2 {
+  width: 100;
+  border-radius: 20px;
+}
+
 @media (min-width: 992px) {
   .gallery .swiper-wrapper {
     padding: 40px 0;
